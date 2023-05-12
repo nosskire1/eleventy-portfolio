@@ -17,4 +17,10 @@ gör ett cv för: patches ds3? elden ring? both?
 nästa lektion, how to use partials in eleventy
 
 
+header syns inte :(  include heade% thingy not working? fixed
+
+
+next up shortcodes.
+
+
 
