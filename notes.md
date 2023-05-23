@@ -23,4 +23,7 @@ header syns inte :(  include heade% thingy not working? fixed
 next up shortcodes.
 
 
+next image plugin thingy
+
+
 
