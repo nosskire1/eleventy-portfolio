@@ -27,3 +27,7 @@ next image plugin thingy
 
 
 
+next netlify ?
+
+
+
