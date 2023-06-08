@@ -26,6 +26,8 @@ next up shortcodes.
 next image plugin thingy
 
 
+problem med att sidan inte funkar. (fixed) 
+
 
 next netlify ?
 
